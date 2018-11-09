@@ -15,7 +15,7 @@ In this section we'll be covering a number of additional statistical topics that
 
 ### Conditional Probability
 
-We start the section off with an introduction to conditional probability. We look at the difference between dependent and independent events, look at how to calculate dependent probabilities, and then insrtduce some key theorums related to conditional probabilities - the product rule, the chain rule and Bayes theorem.
+We start the section off with an introduction to conditional probability. We look at the difference between dependent and independent events, look at how to calculate dependent probabilities, and then introduce some key theorems related to conditional probabilities - the product rule, the chain rule and Bayes theorem.
 
 ### Partitioning and the Law of Total Probabilities
 
@@ -23,7 +23,7 @@ From there, we introduce the concept of partitioning a sample space, explain the
 
 ### Bayes' Theorem
 
-Next up, we introduce Bayes' theorem - an incredibly powerful and widely used approach to determining the probability of something based upon the prior probibility and the likelihood. We use the example of the "Monty Hall problem" to provide some practice with applying Bayes theorem. 
+Next up, we introduce Bayes' theorem - an incredibly powerful and widely used approach to determining the probability of something based upon the prior probability and the likelihood. We use the example of the "Monty Hall problem" to provide some practice with applying Bayes' theorem. 
 
 ### Maximum Likelihood Estimation (MLE)
 
