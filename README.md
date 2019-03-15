@@ -2,16 +2,26 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 21 and why they'll be important to you as a data scientist.
+This lesson summarizes the topics we'll be covering in section 17 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
 * Understand and explain what is covered in this section
 * Understand and explain why the section will help you to become a data scientist
 
-## Combinatorics Continued and Maximum Likelihood Estimation
+## Combinatorics and Probability
 
-In this section we'll be covering a number of additional statistical topics that are going to be important as we start to dig into the application of a range of additional machine learning models in modules 3 and 4.
+In this section, we'll take a little time to "get our math on" with some basic probability. You're going to start with some basic set theory and look at how to operate on related sets using Python.
+
+From there, we're going to use what we learned about sets to start to learn and apply some of the basic rules of probability.
+
+### Factorials and Permutations
+
+Next we're going to dig into factorials, and how they can be used to calculate various permutations.
+
+### Combinations
+
+We're then going to examine the difference between permutations and combinations we'll get some practice calculating combinations for everything from drawing letters from a bag to creating soccer teams for a tournament!
 
 ### Conditional Probability
 
@@ -21,30 +31,9 @@ We start the section off with an introduction to conditional probability. We loo
 
 From there, we introduce the concept of partitioning a sample space, explain the law of total probabilities and then introduce the idea of conditional independence.
 
-### Bayes' Theorem
-
-Next up, we introduce Bayes' theorem - an incredibly powerful and widely used approach to determining the probability of something based upon the prior probability and the likelihood. We use the example of the "Monty Hall problem" to provide some practice with applying Bayes' theorem. 
-
-### Maximum Likelihood Estimation (MLE)
-
-From Bayes' theorem we move onto MLE, explaining the idea of parametric inference for identifying optimal values for model parameters, the concept of likelihood (and it's difference from probability), and the common "IID" assumption on which MLE is based.
-
-### Maximum A Posteriori Estimation
-
-Next up we look at MAP - another technuqie for estimating a variable in the space of a probability distribution.
-
-### Conjugate Prior Distributions
-
-From there, we introduce the idea of a conjugate prior, justify the use of a beta prior distribuiton for bernoulli experiments, and get an overview of the conjugate priors for a number of different data distributions.
-
-
-### Beyond Bayesians and Frequentists
-
-After a lab with some practice implementing Bayesian simulations for simple problems in Python, NumPy and Matplotlib, we then wrap up the section by asking you to read a non technical essay "Beyond Bayesians and Frequentists" by Dr Jacob Steinhardt. The goal is to help you to have a clearer understanding of the differences between frequentist and Bayesian approaches to statistics.
-
-
 
 ## Summary
 
-This is another stats heavy section and some of the discrete problems you're solving may not seem to be particularly relevant to machine learning, but we deliberately introduce them so that you'll have the foundations required to be able to make thoughtful choices as we introduce you to a range of new machine learnign models in the later modules.  
+This is another stats heavy section and some of the discrete problems you're solving may not seem to be particularly relevant to machine learning, but we deliberately introduce them so that you'll have the foundations required to be able to make thoughtful choices as we introduce you to a range of new machine learning models in the later sections.  
+
 
