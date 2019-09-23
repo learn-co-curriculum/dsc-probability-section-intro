@@ -1,5 +1,5 @@
 
-# Introduction
+# Introduction to Probability
 
 ## Introduction
 In this section, you'll learn about the foundation of statistics, probability!
