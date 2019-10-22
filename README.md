@@ -20,15 +20,13 @@ We're then going to examine the difference between permutations and combinations
 
 ### Conditional Probability
 
-We start the section off with an introduction to conditional probability. We look at the difference between dependent and independent events, look at how to calculate dependent probabilities, and then introduce some key theorems related to conditional probabilities - the product rule, the chain rule and Bayes theorem.
+We start the section off with an introduction to conditional probability. We look at the difference between dependent and independent events, look at how to calculate dependent probabilities, and then introduce some key theorems related to conditional probabilities: the product rule, the chain rule, and Bayes theorem.
 
 ### Partitioning and the Law of Total Probabilities
 
-From there, we introduce the concept of partitioning a sample space, explain the law of total probabilities and then introduce the idea of conditional independence.
+From there, we introduce the concept of partitioning a sample space, explain the law of total probabilities, and then introduce the idea of conditional independence.
 
 
 ## Summary
 
-This is another stats heavy section and some of the discrete problems you're solving may not seem to be particularly relevant to machine learning, but we deliberately introduce them so that you'll have the foundations required to be able to make thoughtful choices as we introduce you to a range of new machine learning models in the later sections.  
-
-
+This is a mathematics heavy section. Some of the discrete problems you'll solve may not seem to be particularly relevant to machine learning, but we deliberately introduce them so that you have the foundations required to make thoughtful choices as we introduce you to a range of new machine learning models in the later sections.  
