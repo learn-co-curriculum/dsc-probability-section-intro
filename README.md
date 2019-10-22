@@ -1,13 +1,8 @@
 
-# Introduction to Probability
+# Combinatorics and Probability - Introduction
 
 ## Introduction
-In this section, you'll learn about the foundation of statistics, probability!
-
-## Objectives
-You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
+In this section, you'll learn about the foundation of statistics: probability!
 
 ## Combinatorics and Probability
 
@@ -21,7 +16,7 @@ Next we're going to dig into factorials, and how they can be used to calculate v
 
 ### Combinations
 
-We're then going to examine the difference between permutations and combinations we'll get some practice calculating combinations for everything from drawing letters from a bag to creating soccer teams for a tournament!
+We're then going to examine the difference between permutations and combinations. We'll get some practice calculating combinations for everything from drawing letters from a bag to creating soccer teams for a tournament!
 
 ### Conditional Probability
 
